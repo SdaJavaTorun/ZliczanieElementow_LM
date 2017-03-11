@@ -18,6 +18,7 @@ public class Main {
 
         int[] a = new int[b];
 
+
         for (int i = 0; i < b; i++) {
             System.out.println("Podaj " + i + " element");
             a[i] = zczytaj.nextInt();
